@@ -1,0 +1,46 @@
+.titre{
+  position: relative;
+  text-align: center;
+  left: 30px;
+  background: chartreuse;
+}
+.lien{
+  position: relative;
+  top: 500px;
+  display: flex;
+  flex-direction: none;
+  justify-content: space-evenly;
+  text-align: center;
+  left: 54px;
+  justify-items: center;
+}
+button{
+  padding: 5px;
+  color: black;
+  background: gainsboro;
+  border-radius: 7px;
+}
+button a{
+  color: black
+}
+button a:hover{
+  transition: 0.1s;
+  color: green;
+  transform: scale(1.1);
+}
+.photo{
+  position: relative;
+  width:30px;
+  height: 40px;
+}
+img{
+  border-radius: 100px;
+}
+
+.int{
+  position: relative;
+  left: 30px;
+  bottom: 10px;
+  text-align: center;
+}
+
