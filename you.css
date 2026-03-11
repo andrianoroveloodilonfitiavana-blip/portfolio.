@@ -43,4 +43,8 @@ img{
   bottom: 10px;
   text-align: center;
 }
-
+.NB{
+  position: relative;
+  text-align: center;
+  top: 450px;
+  }
